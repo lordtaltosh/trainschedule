@@ -1,0 +1,43 @@
+body{
+  background-image: url("../images/bodybackground.jpg")
+}
+
+.jumbotron{
+  background-image: url("../images/cardbackground.jpg");
+  color:black;
+  border:5px whitesmoke solid;
+  font: 2em Arial,sans-serif;
+}
+
+.current ,.add{
+  background-color:peachpuff;
+  color:black;
+  font-size:20px;
+}
+#trainTable{
+  background-color:#efffff;
+  color:black;
+  font-size:20px;
+  font: bold;
+}
+#trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+  color:black;
+  font-size:18px;
+  background-color:#efffff;
+}
+.form-group{
+  background-color: white;
+  opacity: 1;
+  color: black;
+  font-size:20px;
+}
+.btn{
+  background-color:green;
+  font-size:20px;
+}
+
+.card{
+  background-color: white;
+  margin: 5px;
+  padding: 1px;
+}
